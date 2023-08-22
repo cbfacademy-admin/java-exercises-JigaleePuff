@@ -120,7 +120,7 @@ For the following list of file names: `List.of("App.java", "App.txt", null, "App
 a map with the following entries
 
 ```txt
-{"App.java", 1},
+{"App.java", 1},        
 {"App.txt", 0},
 {null, -1},
 {"App.md", 0}
