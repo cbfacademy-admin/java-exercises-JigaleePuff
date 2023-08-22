@@ -1,0 +1,19 @@
+public class Accounts extends {
+ 
+ @override
+public class SavingsAccount(Accounts) {
+    private float interest; 
+    
+public class CurrentAccount(Accounts) {
+    private int overdraftLimit;
+} 
+
+
+}
+
+
+
+
+
+
+}
